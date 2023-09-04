@@ -14,6 +14,17 @@ Cada 5 segundos se escribe en un archivo .txt donde guarda la informacion basica
 
 Por ultimo esta el ultimo caso en el que se puede guardar la informacion del sistema, esto es gracias a presionar la tecla b, el sistema funciona de la misma forma que el contador de los 5 segundos, la unica diferencia notable seria el hecho de que se muestra mas informacion al presionar la b, esto por que en el programa original la b servia como un metodo para mostrar todos los procesos.![1](https://github.com/AlejandroPaisano/principios-y-prevencion-de-fallos/assets/91223611/e4d410af-7c8a-4e99-8f05-ec2a822f040b)
 
+En vivo se veria de la siguiente forma, primero vemos la informacion guardada:
+![4](https://github.com/AlejandroPaisano/principios-y-prevencion-de-fallos/assets/91223611/a7a38c90-92b6-4eab-bff9-68a919996b89)
+
+
+Despues vemos el archivo en el que se guardo la informacion:
+
+![5](https://github.com/AlejandroPaisano/principios-y-prevencion-de-fallos/assets/91223611/f39bac21-99ba-4618-85fc-53fea26e6870)
+
+Por ultimo observamos que el programa ha recuperado la informacion
+![6](https://github.com/AlejandroPaisano/principios-y-prevencion-de-fallos/assets/91223611/041f8623-fe5e-4c6a-a4f0-de296b21f6d9)
+
 
 # conclusion
 Construir un sistema que tenga la capacidad de sobrevivir a multiples formas de errores no solo es una tarea larga, tambien resulta estresante, mas en aspectos como revisar que la informacion se este guardando de la forma adecuada. Añadido a eso esta la capacidad de que alguien se robe nuestra informacion debido a que nuestro sistema sea facil de penetrar, sumado a que los daños causados podrian ser aun peores debido a que si no tuvieramos sistemas de guardado, perderiamos toda nuestra informacion.
