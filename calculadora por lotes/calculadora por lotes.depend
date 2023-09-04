@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1668923200 source:d:\osvaldo\documents\dibujos\semestre 7\seminario sistemas\copia para calcu\calculadora por lotes\src\lista.cpp
+	"lista.h"
+
+1668923200 d:\osvaldo\documents\dibujos\semestre 7\seminario sistemas\copia para calcu\calculadora por lotes\include\lista.h
+	<iostream>
+
+1668658740 source:d:\osvaldo\documents\dibujos\semestre 7\seminario sistemas\copia para calcu\calculadora por lotes\src\lote.cpp
+	"lote.h"
+
+1668658740 d:\osvaldo\documents\dibujos\semestre 7\seminario sistemas\copia para calcu\calculadora por lotes\include\lote.h
+	<iostream>
+
+1669933716 source:d:\osvaldo\documents\dibujos\semestre 7\seminario sistemas\copia para calcu\calculadora por lotes\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<lote.h>
+	<lista.h>
+	<cstdlib>
+	<time.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<istream>
+
+1693814927 source:d:\osvaldo\documents\dibujos\semestres pasados\semestre 7\seminario sistemas\copia para calcu\calculadora por lotes\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<lote.h>
+	<lista.h>
+	<cstdlib>
+	<time.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<istream>
+
+1668658740 d:\osvaldo\documents\dibujos\semestres pasados\semestre 7\seminario sistemas\copia para calcu\calculadora por lotes\include\lote.h
+	<iostream>
+
+1668923200 d:\osvaldo\documents\dibujos\semestres pasados\semestre 7\seminario sistemas\copia para calcu\calculadora por lotes\include\lista.h
+	<iostream>
+
+1668923200 source:d:\osvaldo\documents\dibujos\semestres pasados\semestre 7\seminario sistemas\copia para calcu\calculadora por lotes\src\lista.cpp
+	"lista.h"
+
+1668658740 source:d:\osvaldo\documents\dibujos\semestres pasados\semestre 7\seminario sistemas\copia para calcu\calculadora por lotes\src\lote.cpp
+	"lote.h"
+
